@@ -20,7 +20,7 @@ For using the dictionary all you need is to create a class that inherits Seriali
   * Automatically, open Package Manager window
     * Click the + button
     * Select Add package from git URL
-    * Paste `https://github.com/RotaryHeart/SerializableDictionaryLite.git`
+    * Paste `https://github.com/RotaryHeart/SerializableDictionaryLite.git#branch-name`
 * Via Open UPM with the following command
   * `openupm add com.rotaryheart.serializabledictionarylite`
 
